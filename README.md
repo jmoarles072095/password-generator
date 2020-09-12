@@ -6,3 +6,5 @@
 5. website is functional and working
 
 # Link to Website
+
+https://jmoarles072095.github.io/password-generator/
